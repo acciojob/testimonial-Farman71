@@ -1,1 +1,39 @@
-/*  your css code here. If applicable */
+#main-container {
+        background-color: #f5f5f5;
+        padding: 2% 4% 10%;
+      }
+      #testimonial1 {
+        border: 1px;
+        box-shadow: 1px 1px 1px 1px grey;
+        background-color: white;
+        padding: 1% 1% 1% 2%;
+      }
+      #testimonial2 {
+        border: 1px;
+        margin-top: 20px;
+        box-shadow: 1px 1px 1px 1px grey;
+        background-color: white;
+        padding: 1% 1% 1% 2%;
+      }
+      .author{text-align: right;
+    font-style: italic;}#main-container {
+        background-color: #f5f5f5;
+        padding: 2% 4% 10%;
+      }
+      #testimonial1 {
+        border: 1px;
+        box-shadow: 1px 1px 1px 1px grey;
+        background-color: white;
+        padding: 1% 1% 1% 2%;
+      }
+      #testimonial2 {
+        border: 1px;
+        margin-top: 20px;
+        box-shadow: 1px 1px 1px 1px grey;
+        background-color: white;
+        padding: 1% 1% 1% 2%;
+      }
+      .author{text-align: right;
+    font-style: italic;}
+#text{margin:0px;
+	 padding:1% 1% 1%  1%;}
